@@ -1,0 +1,7 @@
+E:\Nccsoft\Bt\OOP_2\OOP_2\obj\Debug\OOP_2.csproj.CoreCompileInputs.cache
+E:\Nccsoft\Bt\OOP_2\OOP_2\bin\Debug\OOP_2.exe.config
+E:\Nccsoft\Bt\OOP_2\OOP_2\bin\Debug\OOP_2.exe
+E:\Nccsoft\Bt\OOP_2\OOP_2\bin\Debug\OOP_2.pdb
+E:\Nccsoft\Bt\OOP_2\OOP_2\obj\Debug\OOP_2.exe
+E:\Nccsoft\Bt\OOP_2\OOP_2\obj\Debug\OOP_2.pdb
+E:\Nccsoft\Bt\OOP_2\OOP_2\obj\Debug\OOP_2.csprojAssemblyReference.cache
